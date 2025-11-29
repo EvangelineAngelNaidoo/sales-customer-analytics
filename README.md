@@ -24,5 +24,20 @@ Public retail sales dataset (CSV format)
 - Mean order value: 229.858
 - Total profit: 286397.02
 
+**High Value Customers**:
+- 204 customers
+- Generated ~1,004,194 in revenue
+- Smallest group, but highest revenue contribution per customer
+
+**Medium Value Customers**:
+- 296 customers
+- Generated ~975,346 in revenue
+- Strong growth potential with marketing and retention strategies
+
+**Low Value Customers**:
+- 293 customers
+- Generated ~317,661 in revenue
+- Largest risk group for churn and low profitability
+
 ## Author
 Evangeline Angel Naidoo
